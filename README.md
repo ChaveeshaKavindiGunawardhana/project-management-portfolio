@@ -34,5 +34,9 @@ Sri Lanka Institute of Advanced Technological Education, Kegalle.
 - Project Management Workshop (Ministry of Transport, Highways & 
   Urban Development project) - Makumbura Multimodal Center
 
+ ### 📁 Project Management Templates
+- [Project Schedule / Gantt Chart Template](templates/Project-Schedule-Gantt-Template.xlsx)
+- [Budget Tracker & Risk Register Template](templates/Budget-Risk-Register-Template.xlsx) 
+
 ### Contact
 Email: kavindigunawardhana931@gmail.com
