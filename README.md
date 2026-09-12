@@ -1,6 +1,6 @@
 # project-management-portfolio
 Project Management documentation, tools, and certifications 
-# Hi, I'm P.H.M.C.K. Gunawardhana 👋
+# Hi, I'm P.H.M.C.K. Gunawardhana
 
 ## Project Management Student | HNDPM
 
@@ -34,5 +34,5 @@ Sri Lanka Institute of Advanced Technological Education, Kegalle.
 - Project Management Workshop (Ministry of Transport, Highways & 
   Urban Development project) - Makumbura Multimodal Center
 
-### 📫 Contact
+### Contact
 Email: kavindigunawardhana931@gmail.com
