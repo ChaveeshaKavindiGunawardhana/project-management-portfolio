@@ -38,9 +38,9 @@ Sri Lanka Institute of Advanced Technological Education, Kegalle.
 - [Project Schedule / Gantt Chart Template](templates/Project-Schedule-Gantt-Template.xlsx)
 - [Budget Tracker & Risk Register Template](templates/Budget-Risk-Register-Template.xlsx) 
 
-### 📈 Data Analytics Projects
-See the [data-analytics](data-analytics/) folder for Excel dashboards 
-and analytical work.
+### 📊 Data Analytics Projects
+- Regional Sales Dashboard - sales performance across regions
+- Global Automotive Sales Dashboard - international car sales analysis
 
 ### Contact
 Email: kavindigunawardhana931@gmail.com
